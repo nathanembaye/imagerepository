@@ -36,4 +36,12 @@ npm start
  
 ## How It Works
 
- In reference to the [Requirements/Features](#Requirements/Features)
+In direct reference to the [Requirements/Features](#Requirements/Features) we should describe how the logic tree of the app works.
+ 
+ - When Repository/Bucket is Public  
+  - one / bulk / enormous amount of images
+  - secure uploading and stored images
+  
+ - When Repository/Bucket is Private  
+  - User must Login to be authenticated
+    -Wow
