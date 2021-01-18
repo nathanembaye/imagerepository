@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Image Repositoy Challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Shopify Summer 2021 Backend Developer & Infrastructure/Site Reliability Engineering Intern Challenge Image Repository:
 
 ## Available Scripts
 
