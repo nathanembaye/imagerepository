@@ -21,16 +21,16 @@ I chose to fulfill the following [challenge](https://docs.google.com/document/d/
 
 ## Installation
 
-npm install
+- npm install
 
 ## Start
 
-git clone https://github.com/nathanembaye/imagerepository
-npm start
+- git clone https://github.com/nathanembaye/imagerepository
+- npm start
 
 ## Visit
 
-(https://localhost:3000)
+- (https://localhost:3000)
 
 ## Tools
 
