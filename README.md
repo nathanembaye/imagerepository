@@ -8,6 +8,7 @@ Summer 2021 Backend Developer & Infrastructure/Site Reliability Engineering Inte
 3. [Start](#Start)
 4. [Tools](#Tools)
 5. [How It Works](#How-It-Works)
+6. [Other](#Other)
 
 ## Requirements/Features
 
@@ -54,4 +55,7 @@ In direct reference to the [Requirements/Features](#Requirements/Features) we sh
     - No permission for one / bulk / enormous amount of images
     - No uploading and storing of images (User has no validated JWToken!)    
   
-    
+## Other
+
+- I shared the Lambda files from AWS that otherwise would have been unviewable. 
+- I emphasized functionality not UI since it is for a Backend Developer + Infrastructure/Site Reliability Engineering challenge :)
