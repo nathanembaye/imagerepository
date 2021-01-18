@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "imagerepository79d17374": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
