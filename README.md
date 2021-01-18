@@ -28,8 +28,9 @@ I chose to fulfill the following [challenge](https://docs.google.com/document/d/
 ```
 git clone https://github.com/nathanembaye/imagerepository
 ```
-- 
-- npm start
+```
+npm start
+```
 
 ## Visit
 
