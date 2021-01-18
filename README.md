@@ -1,6 +1,6 @@
 # Shopify Image Repositoy
 
-Summer 2021 Backend Developer & Infrastructure/Site Reliability Engineering Intern Challenge:
+Summer 2021 Backend Developer & Infrastructure/Site Reliability Engineering Intern Challenge
 
 ## Requirements/Features
 
