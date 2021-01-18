@@ -39,17 +39,17 @@ npm start
 In direct reference to the [Requirements/Features](#Requirements/Features) we should describe how the logic tree of the app works.
  
 - When Repository/Bucket is Public
-  - one / bulk / enormous amount of images
-  - secure uploading and stored images
+  - permitted to upload one / bulk / enormous amount of images
+  - S3 secure uploading and stored images
   
 - When Repository/Bucket is Private
   - (User must login!)
     - permitted one / bulk / enormous amount of images (User has validated JWToken!)
-    - secure uploading and stored images (User has validated JWToken!)
+    - S3 secure uploading and stored images (User has validated JWToken!)
   - (Create Account!)
     - (User must login!)
       - permitted one / bulk / enormous amount of images (User has validated JWToken!)
-      - secure uploading and stored images (User has validated JWToken!)
+      - S3 secure uploading and stored images (User has validated JWToken!)
   - (User does NOT Login/Create Account!)
     - No permission for one / bulk / enormous amount of images
     - No uploading and storing of images (User has no validated JWToken!)    
