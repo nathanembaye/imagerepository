@@ -25,7 +25,10 @@ I chose to fulfill the following [challenge](https://docs.google.com/document/d/
 
 ## Start
 
-- git clone https://github.com/nathanembaye/imagerepository
+```
+git clone https://github.com/nathanembaye/imagerepository
+```
+- 
 - npm start
 
 ## Visit
