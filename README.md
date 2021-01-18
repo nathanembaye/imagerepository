@@ -10,7 +10,7 @@ Summer 2021 Backend Developer & Infrastructure/Site Reliability Engineering Inte
 
 ## Requirements/Features
 
-- I chose to fulfill the following [challenge](https://docs.google.com/document/d/1ZKRywXQLZWOqVOHC4JkF3LqdpO3Llpfk_CkZPR8bjak/edit) requirements:
+I chose to fulfill the following [challenge](https://docs.google.com/document/d/1ZKRywXQLZWOqVOHC4JkF3LqdpO3Llpfk_CkZPR8bjak/edit) requirement
                   
 - ADD image(s) to the repository
   - one / bulk / enormous amount of images
