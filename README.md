@@ -36,7 +36,7 @@ npm start
  
 ## How It Works
 
-In direct reference to the [Requirements/Features](#Requirements/Features) we should describe how the logic tree of the app works.
+In direct reference to the [Requirements/Features](#Requirements/Features) we should describe how the logic tree of the app works:
  
 - When Repository/Bucket is Public
   - permitted to upload one / bulk / enormous amount of images
