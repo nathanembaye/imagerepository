@@ -1,4 +1,4 @@
-# Image Repositoy -Shopify
+# Shopify Image Repositoy Challenge
 
 Summer 2021 Backend Developer & Infrastructure/Site Reliability Engineering Intern Challenge
 
