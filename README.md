@@ -44,14 +44,14 @@ In direct reference to the [Requirements/Features](#Requirements/Features) we sh
   
 - When Repository/Bucket is Private
   - (User must login!)
-    - one / bulk / enormous amount of images (User must have validated JWToken!)
-    - secure uploading and stored images (User must have validated JWToken!)
+    - permitted one / bulk / enormous amount of images (User has validated JWToken!)
+    - secure uploading and stored images (User has validated JWToken!)
   - (Create Account!)
     - (User must login!)
-      - one / bulk / enormous amount of images (User must have validated JWToken!)
-      - secure uploading and stored images (User must have validated JWToken!)
+      - permitted one / bulk / enormous amount of images (User has validated JWToken!)
+      - secure uploading and stored images (User has validated JWToken!)
   - (User does NOT Login/Create Account!)
     - No permission for one / bulk / enormous amount of images
-    - secure uploading and stored images (User must have validated JWToken!)    
+    - No uploading and storing of images (User has no validated JWToken!)    
   
     
