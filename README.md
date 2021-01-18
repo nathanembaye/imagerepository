@@ -44,5 +44,6 @@ In direct reference to the [Requirements/Features](#Requirements/Features) we sh
   
 - When Repository/Bucket is Private
   - User must login
+    - User must login
     
 
