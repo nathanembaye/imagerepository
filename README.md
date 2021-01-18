@@ -4,7 +4,7 @@ Summer 2021 Backend Developer & Infrastructure/Site Reliability Engineering Inte
 
 ## Requirements/Features
 
-* I chose to fufill the following [challenge (https://docs.google.com/document/d/1ZKRywXQLZWOqVOHC4JkF3LqdpO3Llpfk_CkZPR8bjak/edit) requirements:
+* I chose to fulfill the following [challenge] (https://docs.google.com/document/d/1ZKRywXQLZWOqVOHC4JkF3LqdpO3Llpfk_CkZPR8bjak/edit) requirements:
               * ADD image(s) to the repository
                   * one / bulk / enormous amount of images
                   * private or public (permissions)
@@ -20,8 +20,8 @@ npm start
 
 ## Start
 
-localhost:3000/
+[challenge] (https://localhost:3000)
 
 ## Tools
 
-React, Amplify, JavaScript
+ AWS (S3, Cognito, Lambda), React, Amplify, JavaScript
