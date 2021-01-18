@@ -1,6 +1,6 @@
 # Shopify Image Repository Challenge
 
-Summer 2021 Backend Developer & Infrastructure/Site Reliability Engineering Intern Challenge
+Summer 2021 Intern Challenge
 
 # Table of Contents
 1. [Requirements/Features](#Requirements/Features)
@@ -65,4 +65,4 @@ In direct reference to the [Requirements/Features](#Requirements/Features) we sh
 ## Other
 
 - I shared the Lambda files from AWS that otherwise would have been unviewable. 
-- I emphasized functionality not UI since it is a Backend Developer + Infrastructure/Site Reliability Engineering challenge :)
+- I emphasized functionality not UI since it is a backend challenge :)
