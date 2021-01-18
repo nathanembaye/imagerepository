@@ -7,6 +7,7 @@ Summer 2021 Backend Developer & Infrastructure/Site Reliability Engineering Inte
 2. [Installation](#Installation)
 3. [Start](#Start)
 4. [Tools](#Tools)
+5. [How It Works](#How It Works)
 
 ## Requirements/Features
 
@@ -30,5 +31,9 @@ npm start
 (https://localhost:3000)
 
 ## Tools
+
+ AWS (S3, Cognito, Lambda), React, Amplify, JavaScript
+ 
+## Notes
 
  AWS (S3, Cognito, Lambda), React, Amplify, JavaScript
