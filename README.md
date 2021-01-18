@@ -7,7 +7,7 @@ Summer 2021 Backend Developer & Infrastructure/Site Reliability Engineering Inte
 2. [Installation](#Installation)
 3. [Start](#Start)
 4. [Tools](#Tools)
-5. [How It Works](#How It Works)
+5. [How It Works](#How-It-Works)
 
 ## Requirements/Features
 
