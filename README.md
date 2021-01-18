@@ -25,6 +25,7 @@ npm install
 
 ## Start
 
+git clone https://github.com/nathanembaye/imagerepository
 npm start
 
 ## Visit
