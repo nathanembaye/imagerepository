@@ -43,7 +43,8 @@ In direct reference to the [Requirements/Features](#Requirements/Features) we sh
   - secure uploading and stored images
   
 - When Repository/Bucket is Private
-  - User must login
-    - User must login
+  - (User must login!)
+    - one / bulk / enormous amount of images (User must have validated JWToken!)
+    - secure uploading and stored images (User must have validated JWToken!)
     
 
