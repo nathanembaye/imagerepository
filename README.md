@@ -6,10 +6,10 @@ Summer 2021 Backend Developer & Infrastructure/Site Reliability Engineering Inte
 
 - I chose to fulfill the following [challenge](https://docs.google.com/document/d/1ZKRywXQLZWOqVOHC4JkF3LqdpO3Llpfk_CkZPR8bjak/edit) requirements:
                   
-  - ADD image(s) to the repository
-        - one / bulk / enormous amount of images
-        - private or public (permissions)
-        - secure uploading and stored images
+- ADD image(s) to the repository
+  - one / bulk / enormous amount of images
+  - private or public (permissions)
+  - secure uploading and stored images
 
 ## Installation
 
