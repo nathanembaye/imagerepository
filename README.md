@@ -58,4 +58,4 @@ In direct reference to the [Requirements/Features](#Requirements/Features) we sh
 ## Other
 
 - I shared the Lambda files from AWS that otherwise would have been unviewable. 
-- I emphasized functionality not UI since it is for a Backend Developer + Infrastructure/Site Reliability Engineering challenge :)
+- I emphasized functionality not UI since it is a Backend Developer + Infrastructure/Site Reliability Engineering challenge :)
