@@ -6,10 +6,9 @@ Summer 2021 Backend Developer & Infrastructure/Site Reliability Engineering Inte
 
 * I chose to fulfill the following [challenge](https://docs.google.com/document/d/1ZKRywXQLZWOqVOHC4JkF3LqdpO3Llpfk_CkZPR8bjak/edit) requirements:
                   
-* Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+- Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
           
 ## Installation
 
