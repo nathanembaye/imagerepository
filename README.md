@@ -21,7 +21,9 @@ I chose to fulfill the following [challenge](https://docs.google.com/document/d/
 
 ## Installation
 
-- npm install
+```
+npm install
+```
 
 ## Start
 
