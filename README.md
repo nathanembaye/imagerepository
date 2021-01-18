@@ -34,6 +34,6 @@ npm start
 
  AWS (S3, Cognito, Lambda), React, Amplify, JavaScript
  
-## Notes
+## How It Works
 
- AWS (S3, Cognito, Lambda), React, Amplify, JavaScript
+ In reference to the [Requirements/Features](#Requirements/Features)
