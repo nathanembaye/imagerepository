@@ -50,5 +50,8 @@ In direct reference to the [Requirements/Features](#Requirements/Features) we sh
     - (User must login!)
       - one / bulk / enormous amount of images (User must have validated JWToken!)
       - secure uploading and stored images (User must have validated JWToken!)
+  - (User does NOT Login/Create Account!)
+    - No permission for one / bulk / enormous amount of images
+    - secure uploading and stored images (User must have validated JWToken!)    
+  
     
-
