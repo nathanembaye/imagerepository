@@ -59,7 +59,7 @@ In direct reference to the [Requirements/Features](#Requirements/Features) we sh
       - permitted one / bulk / enormous amount of images (User has validated JWToken!)
       - S3 secure uploading and stored images (User has validated JWToken!)
   - (User does NOT Login/Create Account!)
-    - No permission for one / bulk / enormous amount of images (User has validated JWToken!)
+    - No permission for one / bulk / enormous amount of images (User has no validated JWToken!)
     - No uploading and storing of images (User has no validated JWToken!)    
   
 ## Other
