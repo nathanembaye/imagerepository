@@ -1,4 +1,4 @@
-# Shopify Image Repository Challenge
+# Image Repository 
 
 Summer 2021 Intern Challenge
 
