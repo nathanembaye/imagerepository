@@ -83,7 +83,8 @@ export default class AddImage extends React.Component {
         var accessToken = res.getAccessToken();
         jwToken = accessToken.getJwtToken();
         fetch(
-          "https://4mk8efwgs0.execute-api.ca-central-1.amazonaws.com/default/postPresignedURL",
+          //commented link out
+          "/postPresignedURL",
           {
             headers: {
               Authorization: jwToken,
@@ -113,7 +114,8 @@ export default class AddImage extends React.Component {
     //Public bucket PUT
     else {
       fetch(
-        "https://kmy1pgz7g7.execute-api.ca-central-1.amazonaws.com/default/publicPostPresignedURL"
+        //commented link out
+        "/publicPostPresignedURL"
       )
         .then((response) => response.json())
         .then((data) => {
@@ -166,8 +168,9 @@ export default class AddImage extends React.Component {
   getImagePresignedURL() {
     var imageKey = document.getElementById("search").value;
     imageKey = imageKey + ".jpg";
+    //commented link out
     var url =
-      "https://kkrmvchqaa.execute-api.ca-central-1.amazonaws.com/default/getPresignedURL?objectKey=";
+      "/getPresignedURL?objectKey=";
     url = url.concat(imageKey);
     fetch(url)
       .then((response) => response.json())
